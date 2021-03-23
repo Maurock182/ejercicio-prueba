@@ -9,5 +9,9 @@ h1{
 }
 h2{
     color: rgb(221, 158, 189);
-    font: size 20px;
+    font-size:  20px;
+}
+h3{
+    color: lime;
+    font-size: 14px;
 }
